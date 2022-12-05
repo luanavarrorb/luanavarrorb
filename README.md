@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @luanavarrorb
 - 👀 I’m interested in learning
-- 🌱 I’m currently learning fullstack development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning full stack development
+- 📫 How to reach me https://www.linkedin.com/in/luananavarro/
 
 <!---
 luanavarrorb/luanavarrorb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
